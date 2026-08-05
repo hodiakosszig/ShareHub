@@ -10,8 +10,6 @@ Schneider Máté - Adatbázis
 
 Dobó Patrik – Frontend 
 
-Használt 
-
 KKK jegyzet 
 
 Csapatméret: Minimum 2, maximum 3 fős fejlesztői csapat készítheti el.  
