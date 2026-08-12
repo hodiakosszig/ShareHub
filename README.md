@@ -66,7 +66,7 @@ Egységesen rögzíti a kötelező óraszámokat, a gyakorlati időt és a képz
 
 Meghatározza az oktatáshoz és vizsgáztatáshoz szükséges kötelező hardveres, szoftveres és személyi feltételeket.  
 
-A projekt célja 
+A projekt célja
 
 A szoftver egy tárgykölcsönzésre használt webes és mobil platform, amely lehetővé teszi a felhasználók számára, hogy a birtokukban lévő, ritkán használt tárgyakat (pl. szerszámok, sportfelszerelések, elektronikai eszközök) más közösségi tagoknak kölcsönadják, illetve tőlük kölcsönkérjék. A megoldás célja, hogy csökkentse a felesleges vásárlásokat, erősítse a helyi közösségi kapcsolatokat, és egyszerű, biztonságos módot adjon a tárgyak megosztására. A projekt a Kimeneti Követelmények előírásainak megfelelően: életszerű, valós problémára nyújt megoldást, adattárolási és -kezelési funkciókat valósít meg, RESTful architektúrának megfelelő szerver és kliens oldali komponenseket tartalmaz, kliens oldali komponense asztali és mobil eszközön egyaránt használható, forráskódja a tiszta kód elveinek megfelelően készült.  
 
