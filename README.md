@@ -80,7 +80,7 @@ Frontend – Angulart -> Teljes körű keretrendszer, amely beépített eszköze
 
 Backend – Java -> A Java stabil, biztonságos és rendkívül gyors, ráadásul óriási vállalati háttere rengeteg helyen ezt használják.  
 
-Adatbázis - mysql -> Mert jelenleg csak ezt tudjuk 
+Adatbázis - mysql -> Gyors, ingyenes és nyílt forráskódú. Egyszerű a beállítása és a legtöbb webtárhely-szolgáltató is alapból támogatja.
 
 Verziókezelés – Github ->  A GitHub legnagyobb előnye, hogy gyakorlatilag a fejlesztői világ központja, így a projektek azonnal láthatóvá és könnyen terjeszthetővé válnak. 
 
