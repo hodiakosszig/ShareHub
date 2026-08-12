@@ -1,6 +1,6 @@
 # ShareHub
 
-ShareHub - Közösségi Tárgykölcsönző Platform Vizsgaremek – Szoftverfejlesztő és -tesztelő szakma  
+ShareHub - Tárgykölcsönző Platform Vizsgaremek – Szoftverfejlesztő és -tesztelő szakma  
 
 Csapattagok 
 
