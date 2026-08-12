@@ -76,11 +76,11 @@ Regisztráció és bejelentkezés (felhasználókezelés, jogosultságok) Tárgy
 
 Használt technológia  
 
-Frontend – Angulart -> Teljes körű keretrendszer, amely beépített eszközeivel ideális megoldást nyújt a webalkalmazások biztonságos fejlesztéséhez. 
+Frontend – Angular -> Teljes körű keretrendszer, amely beépített eszközeivel ideális megoldást nyújt a webalkalmazások biztonságos fejlesztéséhez. 
 
 Backend – Java -> A Java stabil, biztonságos és rendkívül gyors, ráadásul óriási vállalati háttere rengeteg helyen ezt használják.  
 
-Adatbázis - mysql -> Mert jelenleg csak ezt tudjuk 
+Adatbázis - mysql -> Mert gyors, ingyenes és nyílt forráskódú illetve kevés memóriát használ fel.
 
 Verziókezelés – Github ->  A GitHub legnagyobb előnye, hogy gyakorlatilag a fejlesztői világ központja, így a projektek azonnal láthatóvá és könnyen terjeszthetővé válnak. 
 
