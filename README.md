@@ -72,7 +72,7 @@ A szoftver egy tárgykölcsönzésre használt webes és mobil platform, amely l
 
 Fő funkciók 
 
-Regisztráció és bejelentkezés (felhasználókezelés, jogosultságok) Tárgyak feltöltése, szerkesztése, törlése (kép, leírás, állapot, elérhetőség) Keresés és szűrés kategória, helyszín, elérhetőség szerint Kölcsönzési kérelem indítása, elfogadása/elutasítása Kölcsönzési előzmények és aktuális kölcsönzések nyomon követése Értékelés és visszajelzés a kölcsönzés lezárása után Értesítések (pl. új kérelem, közelgő visszaadási határidő) 
+Regisztráció és bejelentkezés (felhasználókezelés, jogosultságok) Tárgyak feltöltése, szerkesztése, törlése (kép, leírás, állapot, elérhetőség) Keresés és szűrés kategória, helyszín, elérhetőség szerint Kölcsönzési kérelem indítása, elfogadása/elutasítása Kölcsönzési előzmények és aktuális kölcsönzések nyomon követése Értékelés és visszajelzés a kölcsönzés lezárása után Értesítések (pl. új kérelem, közelgő visszaadási határidő). A weboldal ezen felül rendelkezik egy saját futárszolgálattal amely kiszállítja a megrendelőnek az eszközt szükség esetén majd visszaszállítja a tulajdonoshoz illetve a weboldalon nyomon lehet követni azt hogy hol tart az adott eszköz illetve, hogy nagyjából mikor érkezik meg. A weboldalon még be lehet jelenteni a csalókat, akik miután megkapták az átutalást nem küldik el a csomagot vagy csak egy üres dobozt küldenek vagy esetleg egy olyan dobozt amiben nem az adott termék található hanem mondjuk egy tégla vagy egy kő illetve az olyan megrendelőket is be lehet jelenteni akik nem hajlandóak visszaküldeni az eszközt.
 
 Használt technológia  
 
