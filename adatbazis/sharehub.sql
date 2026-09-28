@@ -12,8 +12,8 @@ USE sharehub;
 CREATE TABLE `customers` (
   `id` int PRIMARY KEY AUTO_INCREMENT,
   `username` varchar(300) NOT NULL,
-  `firstname` varchar(100) NOT NULL,
-  `lastname` varchar(100)NOT NULL,
+  `firstname` varchar(50) NOT NULL,
+  `lastname` varchar(50)NOT NULL,
   `email` varchar(255) UNIQUE NOT NULL,
   `phone_number` varchar(50),
   `password` varchar(255) NOT NULL,
