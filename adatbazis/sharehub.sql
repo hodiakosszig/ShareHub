@@ -1,6 +1,6 @@
 -- adatbázis létrehozása
 
-CREATE DATABASE `sharehub` 
+CREATE DATABASE IF NOT EXISTS `sharehub`
 CHARACTER SET utf8mb4 
 COLLATE utf8mb4_unicode_ci;
 
