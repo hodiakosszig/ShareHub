@@ -35,7 +35,7 @@ CREATE TABLE `products` (
   `id` int PRIMARY KEY AUTO_INCREMENT,
   `owner_id` int NOT NULL,
   `category_id` int NOT NULL,
-  `name` varchar(100),
+  `name` varchar(100) NOT NULL,
   `price` decimal(10,2) NOT NULL,
   `description` text,
   `city` varchar(100) NOT NULL,
