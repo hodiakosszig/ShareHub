@@ -17,7 +17,7 @@ CREATE TABLE `customers` (
   `email` varchar(255) UNIQUE NOT NULL,
   `phone_number` varchar(50),
   `password` varchar(255) NOT NULL,
-  `role` ENUM('USER', 'ADMIN') DEFAULT 'USER',
+  `role` ENUM('USER', 'ADMIN') NOT NULL DEFAULT 'USER',
   `created_at` datetime DEFAULT CURRENT_TIMESTAMP,
   `updated_at` timestamp DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
   `deleted_at` timestamp NULL DEFAULT NULL,
