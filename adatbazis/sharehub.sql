@@ -11,7 +11,7 @@ USE sharehub;
 -- táblák kódja:
 CREATE TABLE `customers` (
   `id` int PRIMARY KEY AUTO_INCREMENT,
-  `username` varchar(300) NOT NULL,
+  `username` varchar(100) NOT NULL,
   `firstname` varchar(50) NOT NULL,
   `lastname` varchar(50)NOT NULL,
   `email` varchar(255) UNIQUE NOT NULL,
